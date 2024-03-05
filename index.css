@@ -1,0 +1,37 @@
+:root {
+  --color-white: #FFFFFF;
+}
+*, ::before, ::after{
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+}
+.displayNone{
+  display:none;
+}
+html{
+  font-size:16px;
+}
+body{
+  font-family: "Roboto", sans-serif;
+}
+h1{
+  font-size: 2.5rem;
+}
+p,a{
+  font-size: 1.3rem;
+}
+div#wrapperComponent{
+  display: flex;
+  flex-direction: column;
+  gap:1.7rem;
+  padding:1rem;
+  max-width: 50rem;
+  margin:auto;
+}
+
+div.wrapperAnchorAndP>p{
+  padding-top:1rem;
+  padding-left:1rem;
+
+}
