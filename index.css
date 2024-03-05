@@ -18,7 +18,10 @@ body{
 h1{
   font-size: 2.5rem;
 }
-p,a{
+h2>a{
+  font-size: 1.5rem;
+}
+p{
   font-size: 1.3rem;
 }
 div#wrapperComponent{

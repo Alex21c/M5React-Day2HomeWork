@@ -35,19 +35,19 @@ function MyFirstReactComponent(){
       <H1TopicsCovered/>   
       <p>The following is a list of all the topics we cover in the Geekster Learning area.</p>
       <div class='wrapperAnchorAndP'>
-        <a href="#">Getting started with the web</a>  
+        <h2><a href="#">Getting started with the web</a>  </h2>
         <p>Provides a practical introduction to web development for complete beginners.</p>
       </div>  
       
       <div class='wrapperAnchorAndP'>
-        <a href="#">HTML&mdash;Structuring the web</a>
+        <h2><a href="#">HTML&mdash;Structuring the web</a></h2>
         <p>
           HTML is the language that we use to structure the different parts of our content and define what their meaning or purpose is. This topics teaches HTML in detail.
         </p>
       </div>
 
       <div class='wrapperAnchorAndP'>
-        <a href="#">CSS&mdash;Styling the web</a>
+        <h2><a href="#">CSS&mdash;Styling the web</a></h2>
         <p>
           CSS is the language that we use to control our web content's style and layout, as well as adding behavior like animation. This topics provides comprehensive coverage of CSS.
         </p>
